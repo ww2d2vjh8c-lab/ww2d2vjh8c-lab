@@ -1,16 +1,40 @@
-## Hi there 👋
+### Ayush Kaushik
 
-<!--
-**ww2d2vjh8c-lab/ww2d2vjh8c-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building production systems for India — creator platforms, offline-first desktop tools, AI-powered products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Shipped**
+
+**[HustleClub](https://github.com/ww2d2vjh8c-lab/HustleClubV1)** — Multi-sided creator economy platform for India.
+Courses, UGC gig jobs, and a digital marketplace in one app. Production payment FSM with idempotency and webhook deduplication. Role-based access (user to creator to admin). Full CI/CD: lint to typecheck to migrations to Vercel.
+
+**[Bloom Cafe POS](https://github.com/ww2d2vjh8c-lab/POS-BASIC-BILLING)** — Offline-first desktop billing system. Delivered to a production client.
+Atomic billing transactions, 6-table session management, 58mm thermal receipt printing, versioned SQLite migrations, and automated Windows installer via GitHub Actions. Shipped with a user manual and installation guide.
+
+---
+
+**Building**
+
+**JobFit** — AI-powered resume analyzer for Indian job seekers.
+Upload resume + paste JD — match score, skill gap breakdown, rewritten summary.
+
+---
+
+**Stack**
+
+`TypeScript` `Next.js` `React` `Node.js` `Supabase` `PostgreSQL`
+`Electron` `SQLite` `Tailwind CSS` `GitHub Actions` `Vercel`
+
+---
+
+**Systems I think about**
+
+- Payment state machines and idempotency
+- - Offline-first architecture with sync
+  - - Auth at the application layer + RLS at the DB layer
+    - - CI/CD from feature branch to production
+     
+      - ---
+
+      CS · Open to SDE-1 roles · coc123.1607@gmail.com
