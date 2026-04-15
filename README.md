@@ -1,43 +1,38 @@
-### Ayush Kaushik
+<h1 align="left">Hey, I'm Ayush Kaushik 👋</h1>
 
-Building production systems for India — creator platforms, offline-first desktop tools, AI-powered products.
-
----
-
-**Shipped**
-
-**[AutoDoc AI](https://github.com/ww2d2vjh8c-lab/autodoc-ai)** — AI-powered documentation generator for any GitHub repo.
-Paste a public URL → get a README, API docs, and technical explanation in seconds. Groq (Llama 3.3 70B) runs 3 generation tasks in parallel. Full-stack: Next.js on Vercel, Express on Railway, Prisma + PostgreSQL. [Live →](https://frontend-six-neon-59.vercel.app)
-
-**[HustleClub](https://github.com/ww2d2vjh8c-lab/HustleClubV1)** — Multi-sided creator economy platform for India.
-Courses, UGC gig jobs, and a digital marketplace in one app. Production payment FSM with idempotency and webhook deduplication. Role-based access (user to creator to admin). Full CI/CD: lint to typecheck to migrations to Vercel.
-
-**[Bloom Cafe POS](https://github.com/ww2d2vjh8c-lab/POS-BASIC-BILLING)** — Offline-first desktop billing system. Delivered to a production client.
-Atomic billing transactions, 6-table session management, 58mm thermal receipt printing, versioned SQLite migrations, and automated Windows installer via GitHub Actions. Shipped with a user manual and installation guide.
+<p align="left">
+  <b>Builder of production systems.</b> I write code that runs in the real world — offline-first desktop apps, AI-powered tools, and platforms for India's creator economy.
+</p>
 
 ---
 
-**Building**
+### What I'm building
 
-**JobFit** — AI-powered resume analyzer for Indian job seekers.
-Upload resume + paste JD — match score, skill gap breakdown, rewritten summary.
-
----
-
-**Stack**
-
-`TypeScript` `Next.js` `React` `Node.js` `Supabase` `PostgreSQL`
-`Electron` `SQLite` `Tailwind CSS` `Groq` `GitHub Actions` `Vercel` `Railway`
+- **[Pulse for Claude](https://github.com/ww2d2vjh8c-lab/pulse-for-claude)** — Real-time token usage tracker for Claude Code. Live `🟢/🟡/🔴` in your status bar, zero native deps.
+- **[Bloom Cafe POS](https://github.com/ww2d2vjh8c-lab/bloom-cafe-pos)** — Offline-first point-of-sale for cafes. Electron + SQLite, thermal receipt printing, Windows installer via GitHub Actions.
 
 ---
 
-**Systems I think about**
+### Tech I work with
 
-- Payment state machines and idempotency
-  - Offline-first architecture with sync
-    - Auth at the application layer + RLS at the DB layer
-      - CI/CD from feature branch to production
+```
+Languages    JavaScript · Node.js · SQL
+Desktop      Electron · SQLite · IPC
+AI / Tools   Claude API · Claude Code plugins · MCP
+Infra        GitHub Actions · Windows NSIS installer
+```
 
 ---
 
-CS · Open to SDE-1 roles · coc123.1607@gmail.com
+### Currently
+
+- Open to **SDE-1 roles** — full-stack, developer tools, or AI products
+- Building open-source Claude Code tooling
+- Based in India
+
+---
+
+<p align="left">
+  <a href="mailto:coc123.1607@gmail.com">Email</a> ·
+  <a href="https://github.com/ww2d2vjh8c-lab?tab=repositories">Projects</a>
+</p>
