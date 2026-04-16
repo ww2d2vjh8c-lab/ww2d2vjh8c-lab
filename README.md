@@ -1,38 +1,43 @@
-<h1 align="left">Hey, I'm Ayush Kaushik 👋</h1>
+<h1 align="left">Ayush Kaushik</h1>
 
 <p align="left">
-  <b>Builder of production systems.</b> I write code that runs in the real world — offline-first desktop apps, AI-powered tools, and platforms for India's creator economy.
+  CS student from Bilaspur, India. I build full-stack products and ship them.<br>
+  3 deployed projects — marketplace, desktop POS, AI tool.
+</p>
+
+<p align="left">
+  <a href="mailto:coc123.1607@gmail.com">coc123.1607@gmail.com</a> ·
+  <a href="https://linkedin.com/in/ayush-kaushik-baa4803b9">LinkedIn</a> ·
+  <b>Open to remote SDE-1 roles</b>
 </p>
 
 ---
 
-### What I'm building
+### Projects
 
-- **[Pulse for Claude](https://github.com/ww2d2vjh8c-lab/pulse-for-claude)** — Real-time token usage tracker for Claude Code. Live `🟢/🟡/🔴` in your status bar, zero native deps.
-- **[Bloom Cafe POS](https://github.com/ww2d2vjh8c-lab/bloom-cafe-pos)** — Offline-first point-of-sale for cafes. Electron + SQLite, thermal receipt printing, Windows installer via GitHub Actions.
+**[HustleClub](https://github.com/ww2d2vjh8c-lab/HustleClubV1)** · [Live →](https://hustleclubv1.vercel.app)
+Full-stack creator economy platform — courses, gig jobs, digital marketplace.
+`Next.js 16` `TypeScript` `Supabase` `PostgreSQL` `Razorpay FSM` `Vitest` `CI/CD`
+
+**[Bloom Cafe POS](https://github.com/ww2d2vjh8c-lab/POS-BASIC-BILLING)**
+Offline-first desktop POS delivered to a real café client. Still running daily.
+`Electron` `SQLite WAL` `Node.js` `Jest` `GitHub Actions` `Windows installer`
+
+**[AutoDoc AI](https://github.com/ww2d2vjh8c-lab/autodoc-ai)** · [Live →](https://frontend-six-neon-59.vercel.app)
+Paste any GitHub repo URL → get README, API docs, and technical explanation in seconds.
+`Next.js` `Node.js` `Groq (Llama 3.3)` `Prisma` `PostgreSQL` `Railway` `Vercel`
 
 ---
 
-### Tech I work with
+### Stack
 
 ```
-Languages    JavaScript · Node.js · SQL
-Desktop      Electron · SQLite · IPC
-AI / Tools   Claude API · Claude Code plugins · MCP
-Infra        GitHub Actions · Windows NSIS installer
+TypeScript · Node.js · Next.js · React · Tailwind
+Supabase · PostgreSQL · SQLite · Prisma
+Electron · GitHub Actions · Vercel · Railway
+Groq API · Claude Code
 ```
 
 ---
 
-### Currently
-
-- Open to **SDE-1 roles** — full-stack, developer tools, or AI products
-- Building open-source Claude Code tooling
-- Based in India
-
----
-
-<p align="left">
-  <a href="mailto:coc123.1607@gmail.com">Email</a> ·
-  <a href="https://github.com/ww2d2vjh8c-lab?tab=repositories">Projects</a>
-</p>
+*Based in India · Remote only · IST timezone*
